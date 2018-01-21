@@ -1,6 +1,6 @@
 ﻿(function () {
     'use strict';
-    angular.module('lierahuanresources').factory('index3_factory', index3_factory);
+    angular.module('liera').factory('index3_factory', index3_factory);
 
     EstudoCancelamentoFactory.$inject = ['$http', 'SETTINGS'];
     var routePrefix = 'rentabilidade/incluir/';

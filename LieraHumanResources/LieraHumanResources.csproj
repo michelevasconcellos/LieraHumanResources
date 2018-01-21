@@ -69,6 +69,23 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="angular-route\angular-route.js" />
+    <Content Include="angular-route\angular-route.min.js" />
+    <Content Include="angular-route\index.js" />
+    <Content Include="angular-ui-router\release\angular-ui-router.js" />
+    <Content Include="angular-ui-router\release\angular-ui-router.min.js" />
+    <Content Include="angular-ui-router\src\common.js" />
+    <Content Include="angular-ui-router\src\resolve.js" />
+    <Content Include="angular-ui-router\src\state.js" />
+    <Content Include="angular-ui-router\src\stateDirectives.js" />
+    <Content Include="angular-ui-router\src\stateFilters.js" />
+    <Content Include="angular-ui-router\src\templateFactory.js" />
+    <Content Include="angular-ui-router\src\urlMatcherFactory.js" />
+    <Content Include="angular-ui-router\src\urlRouter.js" />
+    <Content Include="angular-ui-router\src\view.js" />
+    <Content Include="angular-ui-router\src\viewDirective.js" />
+    <Content Include="angular-ui-router\src\viewScroll.js" />
+    <Content Include="angular.js" />
     <Content Include="aprovacao.html" />
     <Content Include="bower_components\bootstrap-colorpicker\dist\css\bootstrap-colorpicker.css" />
     <Content Include="bower_components\bootstrap-colorpicker\dist\css\bootstrap-colorpicker.min.css" />
@@ -940,6 +957,17 @@
     <Content Include="LICENSE" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
+    <Content Include="angular-route\.bower.json" />
+    <Content Include="angular-route\angular-route.min.js.map" />
+    <Content Include="angular-route\bower.json" />
+    <Content Include="angular-route\package.json" />
+    <Content Include="angular-route\README.md" />
+    <Content Include="angular-ui-router\.bower.json" />
+    <Content Include="angular-ui-router\bower.json" />
+    <Content Include="angular-ui-router\CHANGELOG.md" />
+    <Content Include="angular-ui-router\CONTRIBUTING.md" />
+    <Content Include="angular-ui-router\LICENSE" />
+    <Content Include="angular-ui-router\README.md" />
     <None Include="packages.config" />
     <Content Include="bower_components\bootstrap\dist\css\bootstrap-theme.css" />
     <Content Include="bower_components\bootstrap\dist\css\bootstrap-theme.min.css" />
@@ -7393,6 +7421,12 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="angular-ui-router\api\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
