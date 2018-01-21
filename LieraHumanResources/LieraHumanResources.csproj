@@ -930,7 +930,12 @@
     <Content Include="dist\img\linkedin.png" />
     <Content Include="dist\img\mini.png" />
     <Content Include="dist\img\wallpaper-hackathon.png" />
+    <Content Include="index2_controller.js" />
+    <Content Include="index3_controller.js" />
+    <Content Include="index3_factory.js" />
     <Content Include="Index4.html" />
+    <Content Include="index4_controller.js" />
+    <Content Include="index_controller.js" />
     <Content Include="LICENSE" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
