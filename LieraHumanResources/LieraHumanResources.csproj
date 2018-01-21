@@ -933,6 +933,7 @@
     <Content Include="bower.json" />
     <Content Include="changelog.md" />
     <Content Include="composer.json" />
+    <Content Include="dist\img\avalogo_white.png" />
     <Content Include="dist\img\AvanadeLogoBlack.png" />
     <Content Include="dist\img\AvanadeLogoColor.png" />
     <Content Include="dist\img\AvanadeLogoNoTM_AWBlackSolid_RGB.png" />
