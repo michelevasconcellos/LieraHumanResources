@@ -920,6 +920,7 @@
     <Content Include="dist\img\AvanadeLogoNoTM_AWBlackSolid_RGB.png" />
     <Content Include="dist\img\avanadepequenacolor.png" />
     <Content Include="dist\img\Diversidade.png" />
+    <Content Include="dist\img\Felipe.jpg" />
     <Content Include="dist\img\github.png" />
     <Content Include="dist\img\hackaton.png" />
     <Content Include="dist\img\lambda.png" />
@@ -929,6 +930,7 @@
     <Content Include="dist\img\linkedin.png" />
     <Content Include="dist\img\mini.png" />
     <Content Include="dist\img\wallpaper-hackathon.png" />
+    <Content Include="Index4.html" />
     <Content Include="LICENSE" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
