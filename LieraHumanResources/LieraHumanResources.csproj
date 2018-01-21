@@ -908,6 +908,7 @@
     <Content Include="build\less\treeview.less" />
     <Content Include="build\less\users-list.less" />
     <Content Include="build\less\variables.less" />
+    <Content Include="candidatos.html" />
     <Content Include="dist\css\adminlte.css.map" />
     <Content Include="dist\css\adminlte.min.css.map" />
     <Content Include=".npmignore" />
@@ -6876,6 +6877,8 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="Index3.html" />
+    <Content Include="statusProcessoRh.html" />
     <Content Include="yarn.lock" />
   </ItemGroup>
   <ItemGroup>
@@ -6981,7 +6984,7 @@
     <Content Include="pages\charts\flot.html" />
     <Content Include="pages\charts\inline.html" />
     <Content Include="pages\charts\morris.html" />
-    <Content Include="pages\examples\404.html" />
+    <Content Include="pages\examples\statusProcessoSeletivo.html" />
     <Content Include="pages\examples\500.html" />
     <Content Include="pages\examples\blank.html" />
     <Content Include="pages\examples\invoice-print.html" />
