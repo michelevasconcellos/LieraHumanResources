@@ -6967,7 +6967,7 @@
     <Content Include="pages\charts\flot.html" />
     <Content Include="pages\charts\inline.html" />
     <Content Include="pages\charts\morris.html" />
-    <Content Include="pages\examples\404.html" />
+    <Content Include="pages\examples\statusProcessoSeletivo.html" />
     <Content Include="pages\examples\500.html" />
     <Content Include="pages\examples\blank.html" />
     <Content Include="pages\examples\invoice-print.html" />
